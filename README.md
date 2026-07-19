@@ -51,4 +51,4 @@ The underlying calculations utilize robust DAX logic to allow effortless slice-a
 *   `images/` - Visual high-definition portfolio assets.
 
 ---
-*Developed by Fatima — Supply Chain Data Analyst Specialized in Power BI & Logistics Analytics.*
+*Developed by Fatima, Supply Chain Data Analyst Specialized in Power BI & Logistics Analytics.*
